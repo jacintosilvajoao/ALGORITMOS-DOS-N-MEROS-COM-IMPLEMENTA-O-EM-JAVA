@@ -1,0 +1,82 @@
+Funcionalidades do Sistema
+
+1. Máximo Divisor Comum (MDC)
+Calcula o maior divisor comum entre dois números inteiros.
+Entrada:
+       Digite o primeiro número: 24
+       Digite o segundo número: 18
+Saída:
+       MDC(24,18)=6
+
+2. Algoritmo de Euclides
+Calcula o MDC usando o algoritmo de Euclides.
+Entrada:
+       Digite o primeiro número: 56
+       Digite o segundo número: 98
+Saída:
+       Euclides MDC(56,98)=14
+
+3. Teste de Primalidade
+Verifica se um número é primo.
+Entrada:
+        Digite um número: 17
+Saída:
+        17 é primo? true
+
+4. Factorização de Inteiros
+Decompõe um número em factores primos.
+Entrada:
+        Digite o número a fatorizar: 60
+Saída:
+        Factores de 60:
+        2
+        2
+        3
+        5
+
+5. Congruência Modular
+Verifica se dois números são congruentes módulo n.
+Entrada:
+        Digite a: 17
+        Digite b: 5
+        Digite mod: 12
+Saída:
+        17 ≡ 5 mod 12 ? true
+
+6. Teorema de Fermat
+Calcula potência modular.
+Entrada:
+        Digite a base: 2
+        Digite o expoente: 10
+        Digite o mod: 7
+Saída:
+        2^10 mod 7 = 2
+
+7. Euler
+Calcula φ(n), quantidade de números coprimos com n.
+Entrada:
+        Digite o número para calcular φ(n): 9
+Saída:
+        φ(9) = 6
+
+8. Teorema Chinês do Resto (TCR)
+Resolve sistemas de congruências.
+
+Entrada:
+        Quantos sistemas quer resolver no TCR? 2
+        Digite o resto 1: 2
+        Digite o módulo 1: 3
+        Digite o resto 2: 3
+        Digite o módulo 2: 5
+Saída:
+        Resultado TCR = 8
+
+9. Criptografia RSA
+
+Permite cifrar e decifrar mensagens usando RSA.
+
+Entrada
+Digite um nome: Jacinto
+Saída:
+        Mensagem Cifrada: 2 4 0 30 11 8 12
+        Mensagem Decifrada: Jacinto
